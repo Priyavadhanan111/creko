@@ -1,3 +1,6 @@
 Hello World !!+
 Take input from user
-add the values ,
+add the values
+new user
+
+submit data to the databases
