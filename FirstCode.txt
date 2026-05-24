@@ -1,6 +1,14 @@
-Hello World !!+
+Hello World
 Take input from user
 add the values
 new user
-
 submit data to the databases
+
+For user login(PsuedoCode):
+
+First click the web page URL
+Click the UserName and enter the username 
+Click the Password and then enter the password 
+click the sing in button to get logged in 
+the user "Login Succesful"
+
